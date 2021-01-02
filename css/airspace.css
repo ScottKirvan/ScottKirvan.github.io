@@ -159,6 +159,11 @@ font header .navbar-default .navbar-nav li a:hover {
 #intro .section-title p {
   padding-top: 20px;
 }
+#intro .btn-view-works {
+  background: #655E7A;
+  color: #fff;
+  padding: 10px 20px;
+}
 /*--
 	service Start
 --*/
