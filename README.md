@@ -63,4 +63,8 @@ This should install a local copy of jekyll.
 Now run the server:
 ```sh
 $ ./vendor/bundle/ruby/#{YOUR_RUBY_VERSION}/bin/jekyll server
+sk NOTE: this didn't work on my system, I use:
+```sh
+$ bundle exec jekyll serve
+
 ```
