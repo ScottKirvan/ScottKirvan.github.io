@@ -68,4 +68,4 @@ sk NOTE: this didn't work on my system, I use:
 $ bundle exec jekyll serve
 
 ```
-https://themes.gohugo.io/theme/airspace-hugo/
+https://ndrewtl.github.io/airspace-jekyll/
