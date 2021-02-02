@@ -11,6 +11,9 @@ exclude:
   - "LICENSE.md"
   - "*.gemspec"
 
+include:
+  - _pages
+
 keep_files:
   - "CNAME"
   - ".git"
@@ -19,7 +22,7 @@ keep_files:
 
 # Site settings
 title: ScottKirvan
-subtitle: "A free HTML5 agency template"
+subtitle: "Portfolio & Personal Website"
 url: "http://scottkirvan.com" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
