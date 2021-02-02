@@ -1,3 +1,4 @@
+Forked from:
 # _Airspace_ for Jekyll
 ![screenshot](screenshots/home.png "Description goes here")
 
@@ -63,3 +64,9 @@ Now run the server:
 ```sh
 $ ./vendor/bundle/ruby/#{YOUR_RUBY_VERSION}/bin/jekyll server
 ```
+SK NOTE: this didn't work on my system, I use:
+```sh
+$ bundle exec jekyll serve
+```
+
+https://ndrewtl.github.io/airspace-jekyll/
