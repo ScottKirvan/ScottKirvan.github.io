@@ -4,3 +4,6 @@
 Gemfile.lock
 _site
 vendor
+*.dead
+*.swp
+*.orig

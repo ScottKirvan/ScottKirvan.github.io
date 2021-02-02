@@ -1,11 +1,18 @@
 
 exclude:
-  - "/vendor/"
   - "Gemfile"
   - "Gemfile.lock"
+  - "node_modules"
+  - "vendor/bundle/"
+  - "vendor/cache/"
+  - "vendor/gems/"
+  - "vendor/ruby/"
   - "README.md"
   - "LICENSE.md"
   - "*.gemspec"
+
+include:
+  - _pages
 
 keep_files:
   - "CNAME"
@@ -14,19 +21,20 @@ keep_files:
 
 
 # Site settings
-title: Airspace
-subtitle: "A free HTML5 agency template"
-url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
+title: ScottKirvan
+subtitle: "Portfolio & Personal Website"
+url: "http://scottkirvan.com" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/airspace-jekyll"
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
+github: [metadata]
 
 # Build settings
 markdown: kramdown
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "G-SMEG8VP2DJ"
 
 # Category descriptions (for archive pages)
 descriptions:
