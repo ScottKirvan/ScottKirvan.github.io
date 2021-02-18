@@ -1,4 +1,25 @@
+# ScottKirvan.com
+
+The instructions below for starting the server locally don't work in my case.  I use the following:
+```sh
+$ bundle exec jekyll serve
+```
 Forked from:
+
+https://ndrewtl.github.io/airspace-jekyll/
+
+## Branches
+
+- sk-release
+    - this is the branch on the website
+- master
+    - this is my development branch
+- sk-work.html-dev
+    - I've started doing development on a work.html page in this branch - a portfolio page showing examples of the various work I've done over the years
+
+
+---
+
 # _Airspace_ for Jekyll
 ![screenshot](screenshots/home.png "Description goes here")
 
@@ -64,9 +85,3 @@ Now run the server:
 ```sh
 $ ./vendor/bundle/ruby/#{YOUR_RUBY_VERSION}/bin/jekyll server
 ```
-SK NOTE: this didn't work on my system, I use:
-```sh
-$ bundle exec jekyll serve
-```
-
-https://ndrewtl.github.io/airspace-jekyll/
