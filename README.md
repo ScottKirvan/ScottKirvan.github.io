@@ -1,12 +1,19 @@
 # ScottKirvan.com
 
-The instructions below for starting the server locally don't work in my case.  I use the following:
+The instructions below for starting the server locally don't work in my case.  I use the following:  
+In the repository folder:
 ```sh
 $ bundle exec jekyll serve
 ```
 Forked from:
 
 https://ndrewtl.github.io/airspace-jekyll/
+
+After a recent windows update, I got a ```Can't find gem bundler (>=0a) with executable bundle``` error.
+```
+sudo gem install bundler -v "$(grep -A 1 "BUNDLED WITH" Gemfile.lock | tail -n 1)"
+```
+fixed it.
 
 ## Branches
 

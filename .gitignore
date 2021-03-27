@@ -7,3 +7,5 @@ vendor
 *.dead
 *.swp
 *.orig
+*.swo
+*.xml
