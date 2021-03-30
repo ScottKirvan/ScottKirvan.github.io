@@ -56,7 +56,7 @@ implements things like button presses and game code, outputting light on/off sig
 solenoid signals, DMD/scoreboard output, audio, and etc.  The rom is basically the 
 electronic brains of the pinball machine, and VPinMAME runs that code.
 
-This particular fork is setup to compile in Visual Studio 2019 - The parent project
+This particular fork is setup to compile easily in Visual Studio 2019 - The parent project
 doesn't compile directly as set up, so this fork is just easier to use.
 
 Disclaimer:  Many Pinball ROMS
