@@ -9,3 +9,4 @@ vendor
 *.orig
 *.swo
 *.xml
+**/*.Identifier
