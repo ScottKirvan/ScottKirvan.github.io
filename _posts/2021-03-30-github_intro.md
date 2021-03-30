@@ -41,7 +41,7 @@ Here's a quick breakdown of the various forks and what they all do:
 
 ### [Unreal-Visual-Pinball](https://github.com/ScottKirvan/Unreal-Visual-Pinball)
 This is the Unreal Plugin project.  It currently focuses just on the interface between
-Unreal and the PinMAME APIs but I think this should be fleshed out into a larger
+Unreal and the PinMAME APIs but I think this could be fleshed out into a larger
 virtual pinball toolkit with Plugin Blueprint, mesh, and material content to 
 help out with implementing things like 
 [DMD](https://en.wikipedia.org/wiki/Glossary_of_pinball_terms#D)s, LED 
