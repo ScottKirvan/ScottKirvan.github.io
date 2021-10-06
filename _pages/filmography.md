@@ -10,7 +10,7 @@ directed by Bob Gothro - INVNT
 <br><br>
 - Actor, ”Blaine” - **TILT** - independent feature film directed by Jacob Hollis - Dirty Shirley Productions
 <br><br>
--  FX Programmer, stereoscopic 2D look-dev - **SPONGEBOB SQUAREPANTS 4-D** - Stereoscopic ride film directed by Yas Takata - Paramount Parks / Nickelodeon
+- FX Programmer, stereoscopic 2D look-dev - **SPONGEBOB SQUAREPANTS 4-D** - Stereoscopic ride film directed by Yas Takata - Paramount Parks / Nickelodeon
 <br><br>
 - Technical Production Supervisor (pre-production, on-set, post) - **SWORDFISH** - feature film directed by Dominic Sena, VFX Supervisor Boyd Shermis - Warner Brothers
 <br><br>
