@@ -5,7 +5,7 @@ author:
 meta: 
 permalink: /work/filmography.html
 ---
--VFX Supervisor (on-set) - **GMC SIERRA BRAND ROLLOUT** - commercial spot (Sept 2021)
+- VFX Supervisor (on-set) - **GMC SIERRA BRAND ROLLOUT** - commercial spot (Sept 2021)
 directed by Bob Gothro - INVNT
 <br><br>
 - Actor, ”Blaine” - **TILT** - independent feature film directed by Jacob Hollis - Dirty Shirley Productions
