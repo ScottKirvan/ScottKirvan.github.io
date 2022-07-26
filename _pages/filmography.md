@@ -5,10 +5,15 @@ author:
 meta: 
 permalink: /work/filmography.html
 ---
-- VFX Supervisor (on-set) - **GMC SIERRA BRAND ROLLOUT** - commercial spot (Sept 2021)
+- Associate VFX Supervisor & Scale Ambassador - **I'M A VIRGO** (in post production, 2022) - Amazon series directed by Boots Riley, 
+VFX Supervisor Todd Sheridan Perry - Media Res
+<br><br>
+- On-Set VFX Supervisor - **GMC SIERRA BRAND ROLLOUT** - commercial spot (Sept 2021)
 directed by Bob Gothro - INVNT
 <br><br>
 - Actor, ”Blaine” - **TILT** - independent feature film directed by Jacob Hollis - Dirty Shirley Productions
+<br><br>
+- Actor, ”Truck Stop Patron” - **RUCKER (THE TRUCKER)** - independent feature film directed by Amy Hesketh - Decadent Cinema
 <br><br>
 - FX Programmer, stereoscopic 2D look-dev - **SPONGEBOB SQUAREPANTS 4-D** - Stereoscopic ride film directed by Yas Takata - Paramount Parks / Nickelodeon
 <br><br>
