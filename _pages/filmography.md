@@ -7,7 +7,7 @@ permalink: /work/filmography.html
 ---
 - Associate VFX Supervisor & Scale Ambassador - **I'M A VIRGO** (in post production, 2022) - Amazon series directed by Boots Riley, 
 VFX Supervisor Todd Sheridan Perry - Media Res
-<br><br>
+
 - On-Set VFX Supervisor - **GMC SIERRA BRAND ROLLOUT** - commercial spot (Sept 2021)
 directed by Bob Gothro - INVNT
 <br><br>
