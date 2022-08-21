@@ -6,7 +6,7 @@ meta:
 permalink: /work/filmography.html
 ---
 - On-Set VFX Supervisor - **FOR ALL MANKIND - SEASON 4** - TV Series - VFX Supervisor Jay Redd - 
-Apple+ & Sony Pictures, 
+Apple+ & Sony Pictures
 
 - Associate VFX Supervisor & Scale Ambassador - **I'M A VIRGO** (in post production, 2022) - Amazon series directed by Boots Riley, 
 VFX Supervisor Todd Sheridan Perry - Media Res
