@@ -17,13 +17,12 @@ fixed it.
 
 ## Branches
 
-- sk-release
+- published
     - this is the branch on the website
-- master
-    - this is my development branch
-- sk-work.html-dev
-    - I've started doing development on a work.html page in this branch - a portfolio page showing examples of the various work I've done over the years
-
+- blog-draft
+- work-dev
+- staged
+- 
 
 ---
 
