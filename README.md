@@ -15,6 +15,10 @@ sudo gem install bundler -v "$(grep -A 1 "BUNDLED WITH" Gemfile.lock | tail -n 1
 ```
 fixed it.
 
+![](img/ves_emoji.png)
+
+![](img/download.png)
+
 ## Branches
 
 - sk-release
