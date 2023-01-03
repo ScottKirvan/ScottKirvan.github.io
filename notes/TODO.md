@@ -5,12 +5,12 @@ TODO
 
 In Progress
 -----------
-- [ ] 
+- [ ] .
 
 Done ✓
 ------
-- [X] 
+- [X] .
 
 Not Gonna Do ✓
 ------
-- [X] 
+- [X] .
