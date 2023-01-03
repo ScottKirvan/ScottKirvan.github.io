@@ -21,7 +21,8 @@ sudo gem install bundler -v "$(grep -A 1 "BUNDLED WITH" Gemfile.lock | tail -n 1
 To work on this code, create a new branch, make the changes and test there, then merge that branch into published, and if no longer needed, delete the branch.
 
 ---
-## [TODO](TODO.md) ![TODO](TODO.md)  
+## [TODO](notes/TODO.md) ![TODO](notes/TODO.md)
+
 ---
 Forked from:  
 https://ndrewtl.github.io/airspace-jekyll/
@@ -92,4 +93,4 @@ Now run the server:
 $ ./vendor/bundle/ruby/#{YOUR_RUBY_VERSION}/bin/jekyll server
 ```
 
-## [CHANGELOG](CHANGELOG.md) ![CHANGELOG](CHANGELOG.md)
+## [CHANGELOG](notes/CHANGELOG.md) ![CHANGELOG](notes/CHANGELOG.md)
