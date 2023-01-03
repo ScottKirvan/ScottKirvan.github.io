@@ -19,10 +19,8 @@ fixed it.
 
 - published
     - this is the branch on the website
-- blog-draft
-- work-dev
-- staged
-- 
+
+Create a new branch, make the changes and test there, then merge that branch into published, and if no longer needed, delete the branch.
 
 ---
 
