@@ -5,11 +5,11 @@ https://ScottKirvan.com / https://skvfx.com
 ## Running the Server
 The instructions below for starting the server locally don't work in my case.  I use the following in the repository root:
 ```sh
-$ bundle exec jekyll serve
+bundle exec jekyll serve
 ```
 
 After a recent windows update, I got a ```Can't find gem bundler (>=0a) with executable bundle``` error.  Fixed with:
-```
+```sh
 sudo gem install bundler -v "$(grep -A 1 "BUNDLED WITH" Gemfile.lock | tail -n 1)"
 ```
 
