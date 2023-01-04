@@ -1,5 +1,4 @@
-#
-[ScottKirvan.github.io](https://github.com/ScottKirvan/ScottKirvan.github.io)
+# [ScottKirvan.github.io](https://github.com/ScottKirvan/ScottKirvan.github.io)
 
 https://ScottKirvan.com / https://skvfx.com
 
